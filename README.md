@@ -1,5 +1,7 @@
 # Exercicios Python
 
+**Repositorio**: https://github.com/RazyRabbit/ListaDeExercicios-Python3
+
 ## Exercicios realidos de https://wiki.python.org.br/ListaDeExercicios
 
 ### Estrutura De Descisão
