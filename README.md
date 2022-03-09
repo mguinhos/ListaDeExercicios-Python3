@@ -1,6 +1,6 @@
 # Exercicios Python
 
-**Repositorio**: https://github.com/RazyRabbit/ListaDeExercicios-Python3
+**Repositorio**: https://github.com/mguinhos/ListaDeExercicios-Python3
 
 ## Exercicios realidos de https://wiki.python.org.br/ListaDeExercicios
 
